@@ -40,7 +40,8 @@ I love reverse-engineering how things work and shipping solutions that actually 
 
 **AI & Data**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-<br/>*LLM agents (tool calling) · prompt engineering · OCR / vision · speech-to-text (Whisper) · Groq · Google AI Studio*
+<br/>
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents%20(Tool%20Calling)-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2C2C54?style=for-the-badge) ![OCR Vision](https://img.shields.io/badge/OCR%20%2F%20Vision-1A73E8?style=for-the-badge) ![Whisper](https://img.shields.io/badge/Speech--to--Text%20(Whisper)-000000?style=for-the-badge&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Frontend**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,11 +57,16 @@ I love reverse-engineering how things work and shipping solutions that actually 
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Currently Building — FlowDesk
 
-- **🏠 Real-Estate Billing Assistant** — A natural-language Telegram bot (Arabic / Tunisian dialect / French) for a private landlord. LLM agent with tool calling, invoice OCR, and voice transcription. *Python · Groq · Supabase.*
-- **📖 تاج الوقار — Quran Memorization App** — Deployed Flutter app for an academy (~200 students, 4 roles, full Arabic RTL), featuring a custom repetition engine and offline-first audio. *Flutter · Riverpod · Firebase.*
-- **💰 Association Financial Management (Final Project)** — Full-stack web platform with Tunisian fiscal business rules, AI invoice extraction, and Docker deployment. *Spring Boot 4 · Angular 21 · MySQL.*
+A modern **SaaS web application** helping small businesses manage orders, automate customer communication, and streamline operations with AI.
+
+**Planned features:** order management, lightweight CRM, **AI-powered auto-reply** for customer messages, analytics dashboard (orders · revenue · activity), JWT authentication, and role-based access (admin / user).
+
+**Stack:** Spring Boot (REST API) · Angular · PostgreSQL · OpenAI API · Docker-ready
+**Approach:** MVP-first, modular clean architecture (Controller → Service → Repository), incremental delivery focused on real business use cases.
+
+> 🚧 *In active development — built step by step, prioritizing usability and practical value over complexity.*
 
 ---
 
