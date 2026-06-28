@@ -70,10 +70,6 @@ A modern **SaaS web application** helping small businesses manage orders, automa
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanfiras99&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
