@@ -4,6 +4,8 @@
 
 Computer Science graduate (Licence Informatique de Gestion, FSEGS) with a **double degree from Le Mans Université**. I build and ship real applications — from full-stack web platforms to AI-powered systems (LLM agents, vision, speech) — for actual clients. **Artificial Intelligence is the direction I'm committed to**, both as a learner and as a developer.
 
+🔗 **Portfolio:** [yanguifiras.dev](https://yanguifiras.dev)
+
 ---
 
 ## 💫 About Me
